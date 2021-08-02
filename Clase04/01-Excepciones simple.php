@@ -10,9 +10,7 @@ function inverse($x) {
     }
 
 
-
-
-        return 1/$x;
+        return ;
 }
 
 try{
